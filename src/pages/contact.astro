@@ -12,13 +12,13 @@ import Header from "../components/Header.astro";
   <body class="dark:bg-neutral-900 px-4 md:px-0">
     <Header />
     <main
-      class="max-w-3xl mx-auto my-20 dark:text-neutral-200 text-neutral-800"
+      class="max-w-2xl mx-auto my-8 sm:my-14 dark:text-neutral-200 text-neutral-800"
     >
       <section class="container contact" id="contact">
-        <h1 class="text-4xl pb-1 font-bold dark:text-neutral-200">
+        <h1 class="text-3xl sm:text-4xl pb-1 font-bold dark:text-neutral-200">
           Contact Me
         </h1>
-        <div class="mt-8 text-lg">
+        <div class="mt-2 sm:mt-6 sm:text-lg">
           <p>For any queries please get in touch with me through here.</p>
           <p class="mt-4">
             If you'd like to contribute to Speak Your Mind or Pseudo Poets
@@ -27,7 +27,7 @@ import Header from "../components/Header.astro";
           </p>
           <p class="mt-4">Or get in touch through social media :)</p>
           <div
-            class="mt-4 flex flex-wrap gap-4 [&>*]:px-3 [&>*]:py-1 [&>*]:bg-neutral-200 dark:[&>*]:bg-neutral-800 hover:[&>*]:bg-neutral-300 hover:dark:[&>*]:bg-neutral-700 [&>*]:rounded text-lg"
+            class="mt-4 flex flex-wrap gap-4 [&>*]:px-3 [&>*]:py-1 [&>*]:bg-neutral-200 dark:[&>*]:bg-neutral-800 hover:[&>*]:bg-neutral-300 hover:dark:[&>*]:bg-neutral-700 [&>*]:rounded sm:text-lg"
           >
             <a href="https://instagram.com/_meexz_">Instagram</a>
             <a href="https://www.linkedin.com/in/vishruthaa/">LinkedIn</a>
@@ -38,7 +38,10 @@ import Header from "../components/Header.astro";
           </div>
         </div>
       </section>
-      <div class="mt-20">
+      <h1 class="text-3xl sm:text-4xl mt-12 sm:mt-16 pb-1 font-bold dark:text-neutral-200">
+        Contact Form
+      </h1>
+      <div class="mt-4 sm:mt-8">
         <form
           class="contact-form"
           action="https://api.web3forms.com/submit"
@@ -90,7 +93,7 @@ import Header from "../components/Header.astro";
           />
           <div class="flex flex-row-reverse">
             <button
-              class="px-4 py-2 text-lg bg-neutral-200 dark:bg-neutral-800 rounded-md mt-2 w-40"
+              class="px-4 py-2 sm:text-lg bg-neutral-200 dark:bg-neutral-800 rounded-md mt-2 w-40"
               type="submit"
               id="send">Send</button
             >

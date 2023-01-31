@@ -40,7 +40,8 @@ groupedPostArray.sort((a, b) => b.year - a.year);
 
   <body class="dark:bg-neutral-900 px-4 md:px-0">
     <Header />
-    <main class="max-w-3xl mx-auto my-20">
+    <main class="max-w-2xl mx-auto my-8 sm:my-14">
+      <h1 class="text-3xl sm:text-4xl font-bold text-neutral-900 dark:text-neutral-100 mb-4 sm:mb-10">{title}</h1>
       <div
         class="flex flex-col divide-y dark:divide-neutral-800 divide-neutral-500 border-t border-b dark:border-neutral-800 border-neutral-500"
       >
@@ -68,7 +69,9 @@ groupedPostArray.sort((a, b) => b.year - a.year);
           ))
         }
       </div>
-      <Contribute />
     </main>
+    <footer class="max-w-3xl mx-auto mb-10">
+      <Contribute />
+    </footer>
   </body>
 </html>
