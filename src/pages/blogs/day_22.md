@@ -1,7 +1,7 @@
 ---
 layout: "../../layouts/BlogPost.astro"
-title: "Day 22: "
-description: "Day 22: "
+title: "Religion: Intro"
+description: "Religion: Intro"
 date: "2023-01-24"
 ---
 

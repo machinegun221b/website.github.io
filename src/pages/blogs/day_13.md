@@ -1,7 +1,7 @@
 ---
 layout: "../../layouts/BlogPost.astro"
-title: "Day 12: Not a Place at the Table, But a Place in the World"
-description: "Day 12: Not a Place at the Table, But a Place in the World"
+title: "Day 13: A Drop in the Ocean"
+description: "Day 13: A Drop in the Ocean"
 date: "2022-12-17"
 ---
 
