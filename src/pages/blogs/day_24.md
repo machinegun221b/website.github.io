@@ -1,7 +1,7 @@
 ---
 layout: "../../layouts/BlogPost.astro"
-title: "Day 24: Life after Death"
-description: "Day 24: Life after Death"
+title: "Life after Death"
+description: "Life after Death"
 date: "2023-01-26"
 ---
 
