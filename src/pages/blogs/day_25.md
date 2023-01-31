@@ -1,8 +1,8 @@
 ---
 layout: "../../layouts/BlogPost.astro"
-title: "Day 18: What?"
-description: "Day 18: What?"
-date: "2023-01-28"
+title: "Day 25: Rantity Rantity Rant"
+description: "Day 25: Rantity Rantity Rant"
+date: "2023-01-27"
 ---
 
 
