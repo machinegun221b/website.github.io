@@ -2,7 +2,7 @@
 layout: "../../layouts/BlogPost.astro"
 title: "Day 19: Hiatus"
 description: "Day 18: Hiatus"
-date: "2023-01-23"
+date: "2023-01-21"
 ---
 
 
