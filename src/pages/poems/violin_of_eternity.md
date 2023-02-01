@@ -3,6 +3,7 @@ layout: "../../layouts/BlogPost.astro"
 title: "The Violin of Eternity"
 description: "The Violin of Eternity"
 date: "2021-01-03"
+hideDate: true
 ---
 
 A bleating cry  

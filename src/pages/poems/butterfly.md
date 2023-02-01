@@ -3,6 +3,7 @@ layout: "../../layouts/BlogPost.astro"
 title: "Butterfly"
 description: "Butterfly"
 date: "2021-01-02"
+hideDate: true
 ---
 
 You take some clothes  

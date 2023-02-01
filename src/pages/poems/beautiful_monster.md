@@ -3,6 +3,7 @@ layout: "../../layouts/BlogPost.astro"
 title: "Beautiful Monster"
 description: "Beautiful Monster"
 date: "2019-01-01"
+hideDate: true
 ---
 
 I feel torn  

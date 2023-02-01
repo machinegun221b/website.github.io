@@ -1,7 +1,7 @@
 ---
 layout: "../../layouts/BlogPost.astro"
-title: "what's on the docket?"
-description: "what's on the docket?"
+title: "What's on the docket?"
+description: "What's on the docket?"
 date: "2022-12-20"
 ---
 
