@@ -1,7 +1,7 @@
 ---
 layout: "../../layouts/BlogPost.astro"
-title: "Day 27: Would it be right to say, Systemic?"
-description: "Day 27: Would it be right to say, Systemic?"
+title: "Would it be right to say, Systemic?"
+description: "Would it be right to say, Systemic?"
 date: "2023-01-29"
 ---
 

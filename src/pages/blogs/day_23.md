@@ -1,7 +1,7 @@
 ---
 layout: "../../layouts/BlogPost.astro"
-title: "Day 23: The Beginning"
-description: "Day 23: The Beginning"
+title: "The Beginning"
+description: "The Beginning"
 date: "2023-01-25"
 ---
 

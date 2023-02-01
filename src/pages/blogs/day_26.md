@@ -1,7 +1,7 @@
 ---
 layout: "../../layouts/BlogPost.astro"
-title: "Day 26: "
-description: "Day 26: "
+title: "Symbolism"
+description: "Symbolism"
 date: "2023-01-28"
 ---
 
