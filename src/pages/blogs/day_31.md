@@ -2,7 +2,7 @@
 layout: "../../layouts/BlogPost.astro"
 title: "Day 31: Another Anecdote"
 description: "Day 31: Another Anecdote"
-date: "2022-02-02"
+date: "2023-02-02"
 ---
 
 This is gonna be a short one.
