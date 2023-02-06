@@ -8,13 +8,13 @@ date: "2023-02-02"
 This is gonna be a short one.
 
 
-Disclaimer: 
+**Disclaimer:** 
 This is not a tale of somebody being right or wrong. Please feel free to derive your own conclusions. 
 
 
 
 
-First, the Prologue:
+**First, the Prologue:**
 
 
 Back in college I was part of a theatre group. I’m gonna be honest here, the female part of the group at least as far as I knew, was not very involved in the script writing process. The reason for this is threefold: 
@@ -42,7 +42,7 @@ So, going back to the primary topic here, how was this a separate issue? Not onl
 Except apparently, on one fateful day. And how exactly did this contribution go about? Here’s how:
 
 
-The Anecdote:
+**The Anecdote:**
 So we’re called for a meeting. Everybody’s sitting on the steps of the Architecture block. Three people, my seniors, are standing in front of us. The girls are made to sit on one side. In that order of seating, we were asked to answer one question. 
 
 
