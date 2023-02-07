@@ -1,7 +1,7 @@
 ---
 layout: "../../layouts/BlogPost.astro"
-title: "The Oldest"
-description: "The Oldest"
+title: "The Oldest Sibling"
+description: "The OldestSibling"
 date: "2023-02-06"
 ---
 
