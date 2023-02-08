@@ -13,7 +13,7 @@ Whatever may or may not have existed before this, what we do know for sure is th
 
 
 So let’s see what ideas it espouses.
-In Hinduism, also known as “Sanathan Dharma”, the central idea seems to be the concept of Karma. Karma is the consequence of one’s actions. Whatever you do, it carries a consequence which will be the determining factor of how your future looks.
+In Hinduism, also known as “Sanathana Dharma”, the central idea seems to be the concept of Karma. Karma is the consequence of one’s actions. Whatever you do, it carries a consequence which will be the determining factor of how your future looks.
 
 
 But there’s another idea in Hinduism that Karma is tied up with. That this the idea of having one, single soul for eternity. Your is what your identity is and through space-time, it shall travel for multiple lifetimes. And it isn’t necessary that throughout this cycle, you only live as a human. You may take on various forms.
