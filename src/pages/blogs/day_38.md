@@ -1,7 +1,7 @@
 ---
 layout: "../../layouts/BlogPost.astro"
-title: "Filler"
-description: "Filler"
+title: "Day 38: Filler"
+description: "Day 38: Filler"
 date: "2023-02-09"
 ---
 
