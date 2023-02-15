@@ -1,7 +1,7 @@
 ---
 layout: "../../layouts/BlogPost.astro"
-title: "The Four Noble Truths:"
-description: "The Four Noble Truths:"
+title: "The Four Noble Truths"
+description: "The Four Noble Truths"
 date: "2023-02-13"
 ---
 
