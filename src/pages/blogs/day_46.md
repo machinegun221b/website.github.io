@@ -14,11 +14,11 @@ The Vedas are four: Rig, Yajur, Sama and Atharva. Each of these is further divid
 And in Upanishad is where you find the details of the ideology and the inner belief system. So to catch a glimpse of what the idea of God might be like in Hinduism, let's take a look at this Griffith English translation of an excerpt from the Rig Veda.
 
 
-  Then was not non-existent nor existent: there was no realm of air, no sky beyond it.
-  That One Thing, breathless, breathed by its own nature: apart from it was nothing whatsoever.
-  The Gods are later than this world's production. Who knows then whence it first came into being?
-  He, the first origin of this creation, whether he formed it all or did not form it,
-  Whose eye controls this world in highest heaven, he verily knows it, or perhaps he knows not.
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Then was not non-existent nor existent: there was no realm of air, no sky beyond it.<br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; That One Thing, breathless, breathed by its own nature: apart from it was nothing whatsoever.<br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Gods are later than this world's production. Who knows then whence it first came into being?<br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; He, the first origin of this creation, whether he formed it all or did not form it,<br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Whose eye controls this world in highest heaven, he verily knows it, or perhaps he knows not.<br>
   
 
 Being raised around Hindus and in a Hindu household myself, it is so weird to read this. To comprehend what it's actually saying. I can only imagine how weird it might be for someone who's never come across such a belief system.
