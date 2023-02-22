@@ -24,11 +24,11 @@ They made it the way of God and even put in a rigid system to hold it to place. 
 (We are not sure what kind of system of classification, if at all, existed before this time in India, but this is what happened after the Aryan invasion.)
 
 
-The top layer was the Brahmins: priests and teachers.
-Then came the Kshatriyas: Kings, aristocrats & warriors.
-After that were the Vaisyas: Traders, merchants, and craftsmen.
-The bottom layer was the Sudras: Servants and farm workers.
-There was one more, Dalits: whose jobs were things such as cleaning latrines, etc.
+The top layer was the Brahmins: priests and teachers. <br>
+Then came the Kshatriyas: Kings, aristocrats & warriors. <br>
+After that were the Vaisyas: Traders, merchants, and craftsmen. <br>
+The bottom layer was the Sudras: Servants and farm workers. <br>
+There was one more, Dalits: whose jobs were things such as cleaning latrines, etc. <br>
 
 
 The Dalita, who were referred to as the Untouchables, were to be held outside of these four-folds. They were called the Panchama or the fifth varna. And were supposedly permanently unclean. The very word Dalita means broken or scattered. It was said that even if their shadow was to touch you, it was polluting. And the punishments were, and still remain to be harsh in certain regions.
