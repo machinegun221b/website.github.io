@@ -2,7 +2,7 @@
 layout: "../../layouts/BlogPost.astro"
 title: "Day 60: AoT"
 description: "Day 60: AoT"
-date: "2023-03-02"
+date: "2023-03-03"
 ---
 
 I saw this article that said that yesterday’s episode of AoT humanizes Eren with a particularly dark scene. Which is darker? The scene itself, or seeing a glimpse of yourself in Eren in that scene?
